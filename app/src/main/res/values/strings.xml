@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_sightseeing">Sight Seeing</string>
+    <string name="category_food">Food</string>
+    <string name="category_info">About</string>
+
+
+    <!--Info and About-->
+    <string name="info">Jaipur</string>
+    <string name="about">Jaipur is the capital of India’s Rajasthan state.
+        It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color.
+        At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex.
+        With gardens, courtyards and museums, part of it is still a royal residence.\n\nArea: 484.6 km²\nPopulation: 30.7 lakhs</string>
+
+
+    <!--Sight Seeing Places-->
+    <string name="sight1">Amer Fort</string>
+    <string name="sight1_about">Amer is a fort with-in an area of 4 square kilometres located high on a hill,
+        it is the principal tourist attraction in Jaipur.</string>
+    <string name="sight1_rate">4.6</string>
+    <string name="sight1_time">8AM-5:30PM</string>
+    <string name="sight1_locate"></string>
+
+
+    <string name="sight2">Hawa Mahal</string>
+    <string name="sight2_about">Hawa Mahal is a palace constructed of red and pink sandstone.
+        The palace sits on the edge of the City Palace.</string>
+    <string name="sight2_rate">4.4</string>
+    <string name="sight2_time">9AM-5PM</string>
+    <string name="sight2_locate"></string>
+
+
+    <string name="sight3">City Palace</string>
+    <string name="sight3_about">City Palace, which includes the Chandra Mahal and Mubarak Mahal
+        palaces and other buildings, is a palace complex.</string>
+    <string name="sight3_rate">4.4</string>
+    <string name="sight3_time">9:30AM-5PM</string>
+    <string name="sight3_locate"></string>
+
+
+    <string name="sight4">Nahargarh Fort</string>
+    <string name="sight4_about">Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur.
+        It once formed strong defence ring of the city.</string>
+    <string name="sight4_rate">4.5</string>
+    <string name="sight4_time">10AM-6:30PM</string>
+    <string name="sight4_locate"></string>
+
+
+    <string name="sight5">Albert Hall Museum</string>
+    <string name="sight5_about">It is the oldest museum of the state and functions as the State museum of Rajasthan.</string>
+    <string name="sight5_rate">4.4</string>
+    <string name="sight5_time">9AM-5PM</string>
+    <string name="sight5_locate"></string>
+
+
+    <!--Shopping Places-->
+
+    <string name="shop1">Johari Bazaar</string>
+    <string name="shop1_about">Jewelry with precious gemstones, and handmade necklaces are some of the best things
+        available at reasonable prices here.</string>
+    <string name="shop1_rate">4.1</string>
+    <string name="shop1_time">10AM-11PM</string>
+    <string name="shop1_locate"></string>
+
+
+    <string name="shop2">M.I Road</string>
+    <string name="shop2_about">Ensure you buy the colorful pots and wooden souvenirs from this shopping place.</string>
+    <string name="shop2_rate">4.2</string>
+    <string name="shop2_time">11AM onwards</string>
+    <string name="shop2_locate"></string>
+
+
+    <string name="shop3">World Trade Park</string>
+    <string name="shop3_about">World Trade Park is a high class shopping mall in Malviya Nagar, Jaipur.</string>
+    <string name="shop3_rate">4.6</string>
+    <string name="shop3_time">11AM-11PM</string>
+    <string name="shop3_locate"></string>
+
+
+    <string name="shop4">Bapu Bazaar</string>
+    <string name="shop4_about"> Best quality Jaipur textile goods are present here. However, be ready to bargain!</string>
+    <string name="shop4_rate">4.2</string>
+    <string name="shop4_time">11AM onwards</string>
+    <string name="shop4_locate"></string>
+
+
+    <!--Food And cultural Places-->
+
+    <string name="food1">Barbeque Nation</string>
+    <string name="food1_about">The best grill restaurant in town is here with their trademark veg and non-veg starters.</string>
+    <string name="food1_rate">4.5</string>
+    <string name="food1_time">6:30PM-11PM</string>
+    <string name="food1_locate"></string>
+
+    <string name="food2">Chokhi Dhani</string>
+    <string name="food2_about">Chokhi Dhani is a concept capturing the vibrant spirit of Rajasthan and ensuring a perfect Rajasthani experience.</string>
+    <string name="food2_rate">4.1</string>
+    <string name="food2_time">5:30PM-11PM</string>
+    <string name="food2_locate"></string>
+
+    <string name="food3">Jal Mahal</string>
+    <string name="food3_about">The fine-dining restaurant serves cuisine from the four Indian Princely States—Rajputana, Awadh, Hyderabad and Kashmir.</string>
+    <string name="food3_rate">4.6</string>
+    <string name="food3_time">12:30PM-11PM</string>
+    <string name="food3_locate"></string>
+
+    <string name="food4">Raj Mandir Cinema</string>
+    <string name="food4_about">Raj Mandir Cinema is a movie theatre in Jaipur</string>
+    <string name="food4_rate">4.5</string>
+    <string name="food4_time">See Shows</string>
+    <string name="food4_locate"></string>
+</resources>
