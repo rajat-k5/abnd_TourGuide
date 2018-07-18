@@ -7,10 +7,10 @@
 <h5>Jaipur Tour</h5>
 <h5>About | SightSeeing | Shopping | Food</h5>
 <div>
-    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/about_fragment.png" style="float: left" width="100"/>
-    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/sightseeing_fragment.png" style="float: left;width:30%"/>
-    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/shopping_fragment.png" style="float: left;width:30%"/>
-    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/food_fragment.png" style="float: left;width:30%"/>
+    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/about_fragment.png" style="float: left" width="200"/>
+    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/sightseeing_fragment.png" style="float: left" width="200"/>
+    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/shopping_fragment.png" style="float: left" width="200"/>
+    <img src="https://github.com/rajat9045/abnd_TourGuide/blob/master/screenshot/food_fragment.png" style="float: left" width="200"/>
 </div>
 
 The App was built as a project for Udacity Android Basic NanoDegree.
